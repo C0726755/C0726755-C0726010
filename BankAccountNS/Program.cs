@@ -3,7 +3,7 @@
 namespace BankAccountNS
     //Student Name Baldeep Singh Sdhu
     // Student id: C0726755
-    // Student Name Simerpreet Singh
+    // Student Name Simerpreet Singh...
     // Student id:C0726010..
 {
     class Program
